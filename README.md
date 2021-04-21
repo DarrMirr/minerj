@@ -1,5 +1,5 @@
 # Minerj
-MinerJ is my first test exersice to Java developer position released on 18 Feb 2016
+MinerJ is my first test exercise to Java developer position released on 18 Feb 2016
 
 ### Requirements
 
